@@ -43,8 +43,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 </tr>
 </table>
 
----
-
 <!-- ==================== ABOUT ME ==================== -->
 
 <h2 align="center">🩷 About Me</h2>
@@ -77,32 +75,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-<br>
-
----
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-<h2 align="center">🔐 Current Focus</h2>
-
-<div align="center">
-
-| 🩷 | Focus |
-|---|---|
-| 🔎 | Reconnaissance & Enumeration |
-| 🌐 | Web Security |
-| 💉 | SQL Injection |
-| 🕸️ | XSS & Web Vulnerabilities |
-| 🛡️ | SOC Fundamentals |
-| 📡 | Network & Security Monitoring |
-| 🚨 | Security Operations |
-| 📱 | Mobile Security |
-
-</div>
-
-<br>
-
----
 
 <!-- ==================== TECH STACK ==================== -->
 
@@ -186,13 +158,11 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 <!-- ==================== LEARNING JOURNAL ==================== -->
 
-<h2 align="center">📚 Learning Journal</h2>
+<h2 align="center">🩷 Learning Journal</h2>
 
 <p align="center">
   Learning in public — documenting concepts, labs, experiments and lessons learned.
 </p>
-
-<br>
 
 <div align="center">
 
@@ -300,6 +270,3 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2DA6&height=100&section=footer">
 
 </div>
-📡 NOC & Network Monitoring
-📱 Mobile Security
-🐧 Linux
