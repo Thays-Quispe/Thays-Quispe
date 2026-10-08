@@ -6,7 +6,6 @@
 
 </div>
 
-<br>
 
 <!-- ==================== INTRO ==================== -->
 
@@ -114,10 +113,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </p>
 
-<br>
-
----
-
 <!-- ==================== SECURITY LABS ==================== -->
 
 <h2 align="center">🧪 Security Labs</h2>
@@ -126,7 +121,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
   Hands-on cybersecurity labs, exercises and write-ups.
 </p>
 
-<br>
 
 <div align="center">
 
@@ -148,13 +142,7 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-<br>
-
 > 🩷 Write-ups and detailed lab documentation will be added as I progress.
-
-<br>
-
----
 
 <!-- ==================== LEARNING JOURNAL ==================== -->
 
@@ -182,17 +170,11 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-<br>
-
 <p align="center">
   <em>
     One concept, one lab, one mistake and one lesson at a time.
   </em>
 </p>
-
-<br>
-
----
 
 <!-- ==================== PROJECTS ==================== -->
 
@@ -202,7 +184,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
   Building projects while developing my skills in software engineering and cybersecurity.
 </p>
 
-<br>
 
 <div align="center">
 
@@ -210,19 +191,12 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-<br>
-
 > My repositories will gradually include project documentation, technical notes and security write-ups.
-
-<br>
-
----
 
 <!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center"> GitHub Stats</h2>
 
-<br>
 
 <div align="center">
 
@@ -232,10 +206,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-<br>
-
----
-
 <!-- ==================== CONNECT ==================== -->
 
 <h2 align="center"> Let's Connect</h2>
@@ -244,8 +214,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
   I'm always open to connecting with people interested in technology,
   cybersecurity and software development.
 </p>
-
-<br>
 
 <div align="center">
 
@@ -260,10 +228,6 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 </a>
 
 </div>
-
-<br>
-
----
 
 <div align="center">
 
