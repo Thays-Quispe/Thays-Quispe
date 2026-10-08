@@ -9,14 +9,14 @@
 
 <!-- ==================== INTRO ==================== -->
 
-<img src="./avatar.jpg" width="200px" align="left">
+<!-- ==================== INTRO ==================== -->
 
 <div align="center">
 
-<h3>Hey, I'm Thays 🩷</h3>
+<h2>Hey, I'm Thays 🩷</h2>
 
 <p>
-<strong>Software Engineering Student</strong>
+<strong>Software Engineering Student</strong><br>
 focused on <strong>Cybersecurity & Pentesting</strong>
 </p>
 
@@ -30,12 +30,15 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 <em>Learning by building, testing and breaking things.</em>
 </p>
 
+<hr>
+
 </div>
 
-<br clear="left">
 <!-- ==================== ABOUT ME ==================== -->
 
-<h2 align="center">🩷 About Me</h2>
+<img src="./avatar.jpg" width="180px" align="right" hspace="20">
+
+<h3 align="center">🩷 About Me</h3>
 
 <p align="center">
   I'm a Software Engineering student building my career in Cybersecurity.
@@ -65,7 +68,7 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-
+<br clear="right">
 <!-- ==================== TECH STACK ==================== -->
 
 <h2 align="center">💻 Tech Stack</h2>
