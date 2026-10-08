@@ -171,14 +171,48 @@ com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
   Desenvolvendo projetos enquanto aprimoro minhas habilidades em Engenharia de Software e Cibersegurança.
 </p>
 
+<br>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎬 Projeto Netflix</h3>
+      <p>
+        Página web inspirada em plataformas de streaming, desenvolvida durante uma imersão da Alura utilizando HTML, CSS, JavaScript e Inteligência Artificial.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-0D0A12?style=flat-square&logo=html5&logoColor=FF2DA6">
+        <img src="https://img.shields.io/badge/CSS-0D0A12?style=flat-square&logo=css3&logoColor=FF2DA6">
+        <img src="https://img.shields.io/badge/JavaScript-0D0A12?style=flat-square&logo=javascript&logoColor=FF2DA6">
+      </p>
+      <a href="https://github.com/Thays-Quispe/Projeto-Netlix">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-0D0A12?style=for-the-badge&logo=github&logoColor=FF2DA6">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>✂️ ClipMaker</h3>
+      <p>
+        Aplicação web desenvolvida durante o NLW Operator da Rocketseat, utilizando Inteligência Artificial para analisar transcrições e auxiliar na criação de clipes curtos.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0D0A12?style=flat-square&logo=javascript&logoColor=FF2DA6">
+        <img src="https://img.shields.io/badge/Tailwind-0D0A12?style=flat-square&logo=tailwindcss&logoColor=FF2DA6">
+        <img src="https://img.shields.io/badge/GSAP-0D0A12?style=flat-square&logo=gsap&logoColor=FF2DA6">
+        <img src="https://img.shields.io/badge/Gemini%20API-0D0A12?style=flat-square&logo=google&logoColor=FF2DA6">
+      </p>
+      <a href="https://github.com/Thays-Quispe/ClipMaker">
+        <img src="https://img.shields.io/badge/Ver%20Projeto-0D0A12?style=for-the-badge&logo=github&logoColor=FF2DA6">
+      </a>
+    </td>
+  </tr>
+</table>
 
-🩷 <strong>Mais projetos em breve...</strong>
+<br>
 
-</div>
+<p align="center">
+  🩷 <strong>Mais projetos em breve...</strong>
+</p>
 
-> Meus repositórios serão gradualmente atualizados com documentação de projetos, anotações técnicas e write-ups de segurança.
 <!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center"> GitHub Stats</h2>
@@ -202,13 +236,13 @@ com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
 
 <div align="center">
 
-<a href="www.linkedin.com/in/thays-quispe-92599a315">
+<a href="https://www.linkedin.com/in/thays-quispe-92599a315">
 <img src="https://img.shields.io/badge/LinkedIn-0D0A12?style=for-the-badge&logo=linkedin&logoColor=FF2DA6">
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:SEU_EMAIL_AQUI">
+<a href="mailto:quispe.thays@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D0A12?style=for-the-badge&logo=gmail&logoColor=FF2DA6">
 </a>
 
