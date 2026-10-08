@@ -9,21 +9,14 @@
 
 <!-- ==================== INTRO ==================== -->
 
-<table>
-<tr>
+<img src="./avatar.jpg" width="200px" align="left">
 
-<td width="30%" align="center">
+<div align="center">
 
-<img src="./avatar.jpg" width="200px">
-
-</td>
-
-<td width="70%" align="center">
-
-<h1>Hey, I'm Thays 🩷</h1>
+<h3>Hey, I'm Thays 🩷</h3>
 
 <p>
-<strong>Software Engineering Student</strong><br>
+<strong>Software Engineering Student</strong>
 focused on <strong>Cybersecurity & Pentesting</strong>
 </p>
 
@@ -37,11 +30,9 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 <em>Learning by building, testing and breaking things.</em>
 </p>
 
-</td>
+</div>
 
-</tr>
-</table>
-
+<br clear="left">
 <!-- ==================== ABOUT ME ==================== -->
 
 <h2 align="center">🩷 About Me</h2>
