@@ -9,15 +9,13 @@
 
 <!-- ==================== INTRO ==================== -->
 
-<!-- ==================== INTRO ==================== -->
-
 <div align="center">
 
-<h2>Hey, I'm Thays 🩷</h2>
+<h2>Olá, eu sou a Thays 👋</h2>
 
 <p>
-<strong>Software Engineering Student</strong><br>
-focused on <strong>Cybersecurity & Pentesting</strong>
+<strong>Estudante de Engenharia de Software</strong><br>
+com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
 </p>
 
 <p>
@@ -38,23 +36,20 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 <img src="./avatar.jpg" width="180px" align="right" hspace="20">
 
-<h3 align="center">🩷 About Me</h3>
+<h3 align="center">🩷 Sobre mim</h3>
 
 <p align="center">
-  I'm a Software Engineering student building my career in Cybersecurity.
+  Sou estudante de <strong>Engenharia de Software</strong> e estou construindo minha carreira em Tecnologia.
 </p>
 
 <p align="center">
-  My main interests are <strong>Penetration Testing, Web Security,
-  SOC/NOC and Security Monitoring</strong>.
+  Tenho interesse em <strong>Cibersegurança, Desenvolvimento de Software,
+  Suporte e Infraestrutura de TI</strong>.
 </p>
 
 <p align="center">
-  I learn through hands-on labs, practical projects and documenting
-  what I discover along the way.
+  Gosto de aprender na prática, através de laboratórios, projetos, desafios técnicos e experimentação, documentando o que aprendo ao longo do caminho.
 </p>
-
-<br>
 
 <div align="center">
 
@@ -71,7 +66,7 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 <br clear="right">
 <!-- ==================== TECH STACK ==================== -->
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">💻 Tecnologias e Ferramentas</h2>
 
 <h3 align="center">Programming & Development</h3>
 
@@ -112,7 +107,7 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 <h2 align="center">🧪 Security Labs</h2>
 
 <p align="center">
-  Hands-on cybersecurity labs, exercises and write-ups.
+  Laboratórios práticos, exercícios e estudos voltados para cibersegurança.
 </p>
 
 
@@ -136,14 +131,14 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 </div>
 
-> 🩷 Write-ups and detailed lab documentation will be added as I progress.
+> 🩷 Aos poucos, vou adicionando os write-ups e a documentação detalhada dos laboratórios realizados.
 
 <!-- ==================== LEARNING JOURNAL ==================== -->
 
 <h2 align="center">🩷 Learning Journal</h2>
 
 <p align="center">
-  Learning in public — documenting concepts, labs, experiments and lessons learned.
+  Registros de conceitos, laboratórios, experimentos e aprendizados ao longo da minha jornada.
 </p>
 
 <div align="center">
@@ -165,9 +160,7 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 </div>
 
 <p align="center">
-  <em>
-    One concept, one lab, one mistake and one lesson at a time.
-  </em>
+  
 </p>
 
 <!-- ==================== PROJECTS ==================== -->
@@ -175,18 +168,17 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 <h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-  Building projects while developing my skills in software engineering and cybersecurity.
+  Desenvolvendo projetos enquanto aprimoro minhas habilidades em Engenharia de Software e Cibersegurança.
 </p>
 
 
 <div align="center">
 
-🩷 <strong>More projects coming soon...</strong>
+🩷 <strong>Mais projetos em breve...</strong>
 
 </div>
 
-> My repositories will gradually include project documentation, technical notes and security write-ups.
-
+> Meus repositórios serão gradualmente atualizados com documentação de projetos, anotações técnicas e write-ups de segurança.
 <!-- ==================== GITHUB STATS ==================== -->
 
 <h2 align="center"> GitHub Stats</h2>
@@ -202,16 +194,15 @@ focused on <strong>Cybersecurity & Pentesting</strong>
 
 <!-- ==================== CONNECT ==================== -->
 
-<h2 align="center"> Let's Connect</h2>
+<h2 align="center"> Vamos nos conectar?</h2>
 
 <p align="center">
-  I'm always open to connecting with people interested in technology,
-  cybersecurity and software development.
+  Estou sempre aberta a conhecer pessoas interessadas em tecnologia, cibersegurança e desenvolvimento de software.
 </p>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/thays-quispe-92599a315">
 <img src="https://img.shields.io/badge/LinkedIn-0D0A12?style=for-the-badge&logo=linkedin&logoColor=FF2DA6">
 </a>
 
