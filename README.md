@@ -143,8 +143,6 @@ com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
 
 <div align="center">
 
-### 🩷 2026
-
 🔐 Cybersecurity  
 **Pentesting · Web Security · Android Security · Network Security**
 
@@ -161,6 +159,16 @@ com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
 
 <p align="center">
   
+</p>
+
+<p align="center">
+  O link abaixo direcionará para o repositório completo..
+</p>
+
+<p align="center">
+  <a href="https://[https://github.com/Thays-Quispe/learning-journal]">
+    <strong>Explore my Learning Journal →</strong>
+  </a>
 </p>
 
 <!-- ==================== PROJECTS ==================== -->
