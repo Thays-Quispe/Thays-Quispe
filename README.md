@@ -166,7 +166,7 @@ com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
 </p>
 
 <p align="center">
-  <a href="https://[https://github.com/Thays-Quispe/learning-journal]">
+  <a href="https://github.com/Thays-Quispe/learning-journal]">
     <strong>Explore my Learning Journal →</strong>
   </a>
 </p>
