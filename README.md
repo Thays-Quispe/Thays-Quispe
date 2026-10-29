@@ -221,19 +221,6 @@ com foco em Cibersegurança, Desenvolvimento e Tecnologia</strong>
   🩷 <strong>Mais projetos em breve...</strong>
 </p>
 
-<!-- ==================== GITHUB STATS ==================== -->
-
-<h2 align="center"> GitHub Stats</h2>
-
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Thays-Quispe&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=FF2DA6&icon_color=FF69C9&text_color=F5F0F7">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thays-Quispe&layout=compact&hide_border=true&bg_color=0D0A12&title_color=FF2DA6&text_color=F5F0F7">
-
-</div>
-
 <!-- ==================== CONNECT ==================== -->
 
 <h2 align="center"> Vamos nos conectar?</h2>
